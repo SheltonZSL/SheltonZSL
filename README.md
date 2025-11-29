@@ -4,7 +4,7 @@
 
 <h2 align="center"> 👨‍💻 SheltonZSL</h2>
 <p align="center">
-  <samp><b>Welcome to my homepage. I am a University student majoring in CS, and I am welcome to discuss computer issues with me. If necessary, you can contact me.</b>
+  <samp><b>Welcome to my homepage.I welcome you to discuss computer issues with me. If necessary, you can contact me.</b>
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SheltonZSL&color=ff69b4" alt="https://github.com/SheltonZSL" />
