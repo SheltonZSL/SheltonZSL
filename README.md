@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shuanglong%20Zhu&fontAlign=50&fontAlignY=38&color=gradient&desc=Student%20Developer%20%7C%20Backend%20%7C%20AI%20Applications&descAlign=50&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SheltonZSL&fontAlign=50&fontAlignY=38&color=gradient&desc=Student%20Developer%20%7C%20Backend%20%7C%20AI%20Applications&descAlign=50&descAlignY=58" />
 </p>
 
 <h2 align="center">Building, learning, and sharing along the way</h2>
 
 <p align="center">
-  I am a graduate student in Electrical and Computer Engineering. <br>
+  I’m SheltonZSL, a graduate student in Electrical and Computer Engineering. <br>
   This GitHub is where I share projects, experiments, and technical work I have been learning through.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SheltonZSL"><img src="https://komarev.com/ghpvc/?username=SheltonZSL&color=0e75b6" alt="profile views" /></a>
+  <a href="https://github.com/SheltonZSL">
+    <img src="https://komarev.com/ghpvc/?username=SheltonZSL&color=0e75b6" alt="profile views" />
+  </a>
 </p>
-
----
 
 ## About Me
 
@@ -74,15 +74,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,fastapi,postgres,docker,git" />
-</p>
-
---
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SheltonZSL&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZSL&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
